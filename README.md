@@ -11,7 +11,7 @@ This is the final merged simulation software package of POLAR project. It will b
 * ../g4cmake.sh ..  # change the value geant4_base in this script to the right one your computer
 * make
 * ./POLARsim gps.mac run.mac -c config.mac -o output.root
-* # the simulation data file is then stored in directore G4out
+* the simulation data file is then stored in directore G4out
 
 ## How to compile and run the analysis part
 
