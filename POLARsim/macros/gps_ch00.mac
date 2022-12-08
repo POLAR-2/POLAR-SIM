@@ -1,0 +1,12 @@
+# a gps file for tesing
+
+/gps/particle gamma
+/gps/energy 80 keV
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 141.28 -141.28 1500.0 mm
+/gps/pos/halfx 1.0 mm
+/gps/pos/halfy 1.0 mm
+/gps/direction 0 0 -1
+/gps/polarization 1 0 0
+

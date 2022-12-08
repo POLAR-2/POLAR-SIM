@@ -1,0 +1,997 @@
+
+/gps/source/intensity 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -141.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -141.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -135.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -135.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -129.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -129.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -123.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -123.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -116.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -116.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -110.88  0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -110.88  0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -104.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -104.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -98.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -98.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -81.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -81.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -75.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -75.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -69.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -69.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -63.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -63.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -56.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -56.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -50.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -50.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -44.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -44.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -38.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -38.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -21.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -21.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -15.20 0.  -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -15.20 0.  -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -9.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -9.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -3.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre -3.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre  3.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre  3.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 9.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 9.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 15.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 15.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 21.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 21.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+
+
+
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 38.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 38.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 44.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 44.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 50.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 50.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 56.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 56.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 63.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 63.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 69.12 0.  -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 69.12 0.  -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 75.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 75.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 81.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 81.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+
+
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 98.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 98.72 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 104.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 104.80 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 110.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 110.88 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 116.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 116.96 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 123.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 123.04 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 129.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 129.12 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 135.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 135.20 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+/gps/source/add 1.0
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 141.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 110.0 keV
+
+/gps/source/add 0.014
+/gps/particle gamma
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+/gps/pos/centre 141.28 0. -1000. mm
+/gps/pos/halfy 150. mm
+/gps/pos/halfx 0.6 mm
+/gps/direction 0. 0. 1.0
+/gps/polarization 1.0 0.0 0.0
+
+/gps/ene/mono 220.0 keV
+
+
+
+

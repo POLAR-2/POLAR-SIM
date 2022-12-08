@@ -1,0 +1,19 @@
+# a gps file for tesing
+
+/gps/particle gamma
+#/gps/ene/type Pow
+#/gps/ene/min 10 keV
+#/gps/ene/max 500 keV
+/gps/ene/mono 10 keV
+
+/gps/pos/type Plane
+/gps/pos/shape Rectangle
+#/gps/pos/centre 141.5.0 0.0 49.8 cm
+/gps/pos/centre 0.0.0 0.0 150.0 cm
+/gps/pos/halfx 15.0 cm
+/gps/pos/halfy 15.0 cm
+#/gps/direction -0.94 0 -0.33
+/gps/direction 0.0 0.0 -1.0
+
+#/gps/polarization 1 0 0
+
