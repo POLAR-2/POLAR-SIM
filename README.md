@@ -3,6 +3,10 @@
 
 This is the final merged simulation software package of POLAR project. It will be maintained by POLAR simulation group. 
 
+When using this code please cite the following papers:
+https://arxiv.org/abs/1708.00664
+https://arxiv.org/abs/1805.07605
+
 ## How to compile and run the G4 simulation
 
 * cd POLARsim
